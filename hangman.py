@@ -206,6 +206,8 @@ error_counter = 0
 # Compteur qui permet de savoir qui joue
 joueur = 0
 
+print('test')
+
 # Starting the game
 print("C'est parti mon kiki.")
 print("Votre pendu :"+"\n"*10)
